@@ -61,8 +61,7 @@
 
   <h2>📫 Let's Connect</h2>
   <ul>
-    <li>LinkedIn: <a href="#">Your LinkedIn</a></li>
-    <li>GitHub: <a href="#">github.com/YourUsername</a></li>
+    <li>LinkedIn: <a href="www.linkedin.com/in/silas-cybersec">My LinkedIn</a></li>
     <li>TryHackMe: <a href="#">Your THM Username</a></li>
   </ul>
 
