@@ -27,10 +27,18 @@
   </ul>
 
   <hr>
-
+  <h2>Built Projects</h2>
+  <ul>
+    <li>Home Lab</li>
+    <li><a href="https://github.com/slybdev/Python_Keylogger.git">Keylogger (Educational Purpose)</a></li>
+  </ul>
+  
   <h2>🚀 Current Projects</h2>
   <ul>
-    <li><a href="https://github.com/slybdev/Python_Keylogger.git">Keylogger (Educational Purpose)</a></li>
+    <li>Active Directory</li>
+    <li>Mini SOC(ELK - Elastic, Logstash, Kibana), Mythic - C2 Server, osTicket - Ticketing System</li>
+    <li>SOC Automation project(Wazuh, Shuffle)</li>
+    <li>SOAR EDR(LimaCharlie - EDR, Tines -SOAR platform)</li>
     <li>IDS from Scratch</li>
     <li>Live Network Monitor</li>
     <li>AI-based Intrusion Detection System</li>
