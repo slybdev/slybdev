@@ -30,7 +30,7 @@
 
   <h2>🚀 Current Projects</h2>
   <ul>
-    <li>Keylogger (Educational Purpose)</li>
+    <li><a href="https://github.com/slybdev/Python_Keylogger.git">Keylogger (Educational Purpose)</a></li>
     <li>IDS from Scratch</li>
     <li>Live Network Monitor</li>
     <li>AI-based Intrusion Detection System</li>
