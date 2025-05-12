@@ -1,6 +1,6 @@
 
 # Hello, I'm Silas
-<a href="www.linkedin.com/in/silas-cybersec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/silas-cybersec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 Hi, I'm Silas, a passionate and driven aspiring Cybersecurity Engineer with a strong foundation in security operations, threat detection, and system hardening. I’ve earned industry-recognized certifications including ISC2 Certified in Cybersecurity (CC) and the Google Cybersecurity Certificate, and I’m currently preparing for CompTIA CySA+. I’ve built a functional home lab for hands-on learning and regularly practice with tools like Splunk, Wireshark, EDR solutions, and Active Directory environments. With a solid grasp of networking, Python scripting, and PowerShell, I actively sharpen my skills through platforms like TryHackMe and Let's Defend, aiming to start out as a SOC Analyst and eventually grow into a Cloud Security Engineer.
@@ -13,46 +13,68 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Active Directory                              | SOC Lab           |
+| Pcap Analysis                                 | Detection Lab     |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AbuseIPDB-DC3545?&style=for-the-badge&logo=Database&logoColor=white" />
+  <img src="https://img.shields.io/badge/-URLscan.io-20232A?&style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Any.run-0080FF?&style=for-the-badge&logo=Runkeeper&logoColor=white" />
 </div>
+
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Velociraptor-00B8A9?&style=for-the-badge&logo=Search&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysinternals-007ACC?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-KAPE-6A1B9A?&style=for-the-badge&logo=Fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CyberChef-607D8B?&style=for-the-badge&logo=CodeSandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FTK%20Imager-455A64?&style=for-the-badge&logo=Hard%20Drive&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QRadar-0043CE?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Graylog-E53935?&style=for-the-badge&logo=Graylog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AlienVault-78C257?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+</div>
+
+### Scripting & Automation
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-008000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDefend%20SOC%20Analyst%20Path-2E86C1?&style=for-the-badge&logo=Shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Analyst%20Path-5C2D91?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Active Directory Security Lab (User Management & Attack Detection)
+- SOC Detection Lab using Splunk (Hands-on Blue Team Project)
+
