@@ -77,4 +77,5 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 ## Projects
 - Active Directory Security Lab (User Management & Attack Detection)
 - SOC Detection Lab using Splunk (Hands-on Blue Team Project)
+- Windows Security Log Analyzer & Keylogger (Python + PowerShell)
 
