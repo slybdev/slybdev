@@ -13,7 +13,7 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory                              | SOC Lab           |
+| Active Directory                              | <a href="https://github.com/slybdev/Active-Directory/blob/main/README.md">AD Lab</a>|           |
 | Pcap Analysis                                 | Detection Lab     |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
