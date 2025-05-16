@@ -9,7 +9,6 @@ Hi, I'm Silas, a passionate and driven aspiring Cybersecurity Engineer with a st
 
 To secure an entry-level role in Cybersecurity where I can apply my technical skills, certifications, and proactive learning mindset to monitor, defend, and improve organizational security systems. My goal is to grow into a skilled Cybersecurity Engineer contributing to a safer digital world, with a long-term ambition of working internationally.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
