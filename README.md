@@ -14,9 +14,9 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/slybdev/Active-Directory/blob/main/README.md">AD Lab</a>|           |
 | Malware Analysis                              | <a href="https://github.com/slybdev/Malware-analysis/blob/main/README.md">Lab</a>     |
-| SIEM Implementation and Log Analysis          | Detection Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/slybdev/SIEM-Implementation-and-Log-Analysis/blob/main/README.md">Detction Lab</a> |
 | Network Traffic Monitoring and Attack Detection |<a href="https://github.com/slybdev/Network-Traffic-Monitoring-and-Attack-Detection-/blob/main/README.md">Detction Lab</a>  |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/slybdev/Security-Automation-with-Shuffle-SOAR-SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
