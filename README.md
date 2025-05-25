@@ -75,6 +75,6 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 
 ## Projects
 -  <a href="https://github.com/slybdev/Active-Directory/blob/main/README.md"> Active Directory Security Lab (User Management & Attack Detection)</a>
--  <a href="https://github.com/slybdev/SIEM-SOAR-Lab"> SOC Detection Lab using Splunk (Hands-on Blue Team Project)</a>
+-  <a href="https://github.com/slybdev/SIEM-SOAR-Lab">SIEM & SOAR Lab (Hands-on Blue Team Project)</a>
 - Windows Security Log Analyzer & Keylogger (Python + PowerShell)
 
