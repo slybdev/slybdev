@@ -20,7 +20,7 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | <a href="https://github.com/slybdev/Case-Management-with-TheHive-SOC-Case-Management-Lab-/blob/main/README.md">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation| SOC Automation Lab|
-
+| CTF                 | <a href="https://github.com/slybdev/CTF/edit/main/README.md">SOC Automation Lab</a>|
 
 ## Tools
 
