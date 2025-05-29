@@ -52,8 +52,9 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
   <img src="https://img.shields.io/badge/-QRadar-0043CE?&style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Graylog-E53935?&style=for-the-badge&logo=Graylog&logoColor=white" />
   <img src="https://img.shields.io/badge/-AlienVault-78C257?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-7E57C2?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+
 </div>
 
 ### Scripting & Automation
