@@ -19,7 +19,7 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/slybdev/Security-Automation-with-Shuffle-SOAR-SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | <a href="https://github.com/slybdev/Case-Management-with-TheHive-SOC-Case-Management-Lab-/blob/main/README.md">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation|  <a href="https://github.com/slybdev/Scripting/blob/main/README.md">SOC Automation Lab</a>|
 | CTF                 | <a href="https://github.com/slybdev/CTF">CTF Labs</a>|
 
 ## Tools
