@@ -21,6 +21,8 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 | Case Management with TheHive                  | <a href="https://github.com/slybdev/Case-Management-with-TheHive-SOC-Case-Management-Lab-/blob/main/README.md">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation|  <a href="https://github.com/slybdev/Scripting/blob/main/README.md">SOC Automation Lab</a>|
 | CTF                 | <a href="https://github.com/slybdev/CTF">CTF Labs</a>|
+| Firewall and VLAN Configuration                 | <a href="https://github.com/slybdev/Network_Segmentation/blob/main/README.md">	Network Segmentation Lab</a>|
+
 
 ## Tools
 
