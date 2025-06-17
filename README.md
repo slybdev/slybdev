@@ -22,7 +22,7 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 | Scripting and Automation for Threat Mitigation|  <a href="https://github.com/slybdev/Scripting/blob/main/README.md">SOC Automation Lab</a>|
 | CTF                 | <a href="https://github.com/slybdev/CTF">CTF Labs</a>|
 | Firewall and VLAN Configuration                 | <a href="https://github.com/slybdev/Network_Segmentation/blob/main/README.md">	Network Segmentation Lab</a>|
-| Attack Simulation                 | <a href="https://github.com/slybdev/attack_simulation/blob/main/README.md">	Network Segmentation Lab</a>|
+| Attack Simulation                 | <a href="https://github.com/slybdev/attack_simulation/blob/main/README.md">	Lab</a>|
 
 
 ## Tools
