@@ -18,6 +18,7 @@ To secure an entry-level role in Cybersecurity where I can apply my technical sk
 | Network Traffic Monitoring and Attack Detection |<a href="https://github.com/slybdev/Network-Traffic-Monitoring-and-Attack-Detection-/blob/main/README.md">Detction Lab</a>  |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/slybdev/Security-Automation-with-Shuffle-SOAR-SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/slybdev/Playbooks/blob/main/README.md">Play books</a>|
+| OSINT      | <a href="https://github.com/slybdev/Threat-Intel">Write up</a>|
 | Case Management with TheHive                  | <a href="https://github.com/slybdev/Case-Management-with-TheHive-SOC-Case-Management-Lab-/blob/main/README.md">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation|  <a href="https://github.com/slybdev/Scripting/blob/main/README.md">SOC Automation Lab</a>|
 | CTF                 | <a href="https://github.com/slybdev/CTF">CTF Labs</a>|
